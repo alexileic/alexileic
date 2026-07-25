@@ -65,7 +65,7 @@ I'm a Statistics undergraduate student at **California Polytechnic State Univers
   * **Description:** Collaborated on a four-person team to develop an interactive analytics application that connected socioeconomic disparities with patient diagnoses in Allen County, Kansas. Integrated the sponsor's survey data with NIH HDPulse datasets to help healthcare providers identify community needs and proactively allocate resources through interactive dashboards. Awarded *Best Visualization* at ASA DataFest 2026 following a 48-hour data analytics competition.
   * **Tech Stack:** R, Shiny, Plotly, Data Visualization
 
-* **📈 [Stock Performance Prediction Model](https://github.com/alexileic)**
+* **📈 [Analysis of Machine Learning Models for Time Series Forecasting on Johnson & Johnson Stock Prices](https://github.com/alexileic/CSC466-Final-Project)**
   * **Description:** Collaborated on a two-person team to develop a machine learning pipeline that predicts future stock performance using historical market data, with Johnson & Johnson (JNJ) as the primary case study. Compared multiple classification models, evaluated predictive performance using standard machine learning metrics, and analyzed the impact of financial indicators on stock movement.
   * **Tech Stack:** Python, pandas, scikit-learn, Machine Learning
 
