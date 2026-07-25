@@ -57,13 +57,17 @@ I'm a Statistics undergraduate student at **California Polytechnic State Univers
 
 ### 📂 Featured Projects
 
-* **[Custom Sketch Image Classifier](https://github.com/alexileic/DATA402-Final-Project)**
-  * **Description:* Developed a sketch classification pipeline combining Google QuickDraw data (bear, frog, lantern) with custom friend-drawn sketches (snoopy, wizard), utilizing oversampling via WeightedRandomSampler and fine-tuning ResNet18 transfer learning models.
-  * *Tech Stack:* Python, PyTorch, torchvision, pandas, scikit-learn, Matplotlib
+* **🖍️ [Custom Sketch Image Classifier](https://github.com/alexileic/DATA402-Final-Project)**
+  * **Description:** Developed an image classification pipeline combining Google QuickDraw sketches (bear, frog, lantern) with custom hand-drawn sketches (Snoopy, wizard). Compared ResNet18 transfer learning against an SVM trained on extracted features, addressing class imbalance through oversampling and evaluating multiple training strategies.
+  * **Tech Stack:** Python, PyTorch, torchvision, pandas, scikit-learn, Matplotlib
 
-* **[Stock Performance Prediction Model](https://github.com/alexileic)**
-  * *Description:* Developed a machine learning evaluation pipeline to predict future stock behavior using Johnson & Johnson (JNJ) as a primary case study.
-  * *Tech Stack:* Python, Pandas, scikit-learn, Machine Learning
+* **🏥 [ASA DataFest 2026: Social Determinants of Health Analysis](https://github.com/nanamiikii/datafest-2026)**
+  * **Description:** Collaborated on a four-person team to develop an interactive analytics application that connected socioeconomic disparities with patient diagnoses in Allen County, Kansas. Integrated the sponsor's survey data with NIH HDPulse datasets to help healthcare providers identify community needs and proactively allocate resources through interactive dashboards. Awarded *Best Visualization* at ASA DataFest 2026 following a 48-hour data analytics competition.
+  * **Tech Stack:** R, Shiny, Plotly, Data Visualization
+
+* **📈 [Stock Performance Prediction Model](https://github.com/alexileic)**
+  * **Description:** Collaborated on a two-person team to develop a machine learning pipeline that predicts future stock performance using historical market data, with Johnson & Johnson (JNJ) as the primary case study. Compared multiple classification models, evaluated predictive performance using standard machine learning metrics, and analyzed the impact of financial indicators on stock movement.
+  * **Tech Stack:** Python, pandas, scikit-learn, Machine Learning
 
 ---
 
