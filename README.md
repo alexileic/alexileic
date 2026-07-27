@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi, I'm Alexi! 👋
-I'm a Statistics undergraduate student at **California Polytechnic State University ([Cal Poly SLO](https://www.calpoly.edu/))** with a Cross-Disciplinary Minor in Data Science, passionate about turning data into meaningful insights through analytics, machine learning, and interactive visualizations.
+I'm a Statistics undergraduate student at **California Polytechnic State University ([Cal Poly SLO](https://www.calpoly.edu/))** with a Cross-Disciplinary Studies Minor in Data Science ([CDSM in Data Science](https://statistics.calpoly.edu/data-science-minor)), passionate about turning data into meaningful insights through analytics, machine learning, and interactive visualizations.
 
 ---
 
@@ -58,7 +58,7 @@ I'm a Statistics undergraduate student at **California Polytechnic State Univers
 ### 📂 Featured Projects
 
 * **🖍️ [Custom Sketch Image Classifier](https://github.com/alexileic/DATA402-Final-Project)**
-  * **Description:** Developed an image classification pipeline combining Google QuickDraw sketches (bear, frog, lantern) with custom hand-drawn sketches (Snoopy, wizard). Compared ResNet18 transfer learning against an SVM trained on extracted features, addressing class imbalance through oversampling and evaluating multiple training strategies.
+  * **Description:** Collaborated on a two-person team to develop an image classification pipeline combining Google QuickDraw sketches (bear, frog, lantern) with custom hand-drawn sketches (Snoopy, wizard). Compared ResNet18 transfer learning against an SVM trained on extracted features, addressing class imbalance through oversampling and evaluating multiple training strategies.
   * **Tech Stack:** Python, PyTorch, torchvision, pandas, scikit-learn, Matplotlib
 
 * **🏥 [ASA DataFest 2026: Social Determinants of Health Analysis](https://github.com/nanamiikii/datafest-2026)**
